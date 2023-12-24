@@ -1,0 +1,5 @@
+将文件放在：Fooocus\language 下
+
+右键编辑启动bat文件，加入以下参数： --language zh-CN
+如普通启动文件为：
+.\python_embeded\python.exe -s Fooocus\entry_with_update.py --language zh-CN
